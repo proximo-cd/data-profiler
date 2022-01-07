@@ -8,7 +8,7 @@ from streamlit_pandas_profiling import st_profile_report
 st.markdown('''
 # **Proximo Data Profiler**
 
-Upload a dataset as a CSV file and you will get a report of your data's quality.
+Upload a dataset as a CSV file and you will get a report of your data's quality. Click the button bellow for a demonstration.
 
 ---
 ''')
